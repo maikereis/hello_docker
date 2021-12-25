@@ -1,3 +1,6 @@
+[![Actions Status](https://github.com/maikereis/hello_docker/workflows/Publish%20Docker%20image/badge.svg)](https://github.com/maikereis/hello_docker/actions)
+
+
 HELLO DOCKER!
 A simple docker image using JavaScript
 
